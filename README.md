@@ -52,5 +52,5 @@ This project follows a **Product Launch structure** to simulate a real-world wor
 
 ---
 
-## 🧑‍💻 Author
+## 👩‍💻 Author
 Garima KC
